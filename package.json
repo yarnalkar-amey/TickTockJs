@@ -23,10 +23,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ticktockjs"
+    "url": "https://github.com/yarnalkar-amey/TickTockJs"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ticktockjs/issues"
+    "url": "https://github.com/yarnalkar-amey/TickTockJs/issues"
   },
-  "homepage": "https://github.com/yourusername/ticktockjs#readme"
+  "homepage": "https://github.com/yarnalkar-amey/TickTockJs#readme"
 }
