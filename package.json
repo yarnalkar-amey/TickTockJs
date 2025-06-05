@@ -1,0 +1,32 @@
+{
+  "name": "ticktockjs",
+  "version": "1.0.0",
+  "description": "A robust JavaScript library that simplifies working with dates and times.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "echo \"No build step defined\"",
+    "test": "echo \"No tests defined yet\""
+  },
+  "keywords": [
+    "date",
+    "time",
+    "datetime",
+    "javascript",
+    "utility",
+    "ticktock",
+    "ticktockjs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ticktockjs"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ticktockjs/issues"
+  },
+  "homepage": "https://github.com/yourusername/ticktockjs#readme"
+}
